@@ -4,5 +4,5 @@ const btn = document.getElementById('btn')
 const color = document.querySelector('.color')
 
 btn.addEventListener('click', function() {
-    
+    const randomNumber = 2
 })

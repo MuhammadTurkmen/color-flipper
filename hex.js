@@ -9,5 +9,5 @@ btn.addEventListener('click', function() {
         hexColor += hex[0]
     }
     color.textContent = hexColor
-    document.body.style.backgroundColor
+    document.body.style.backgroundColor = hexColor
 })

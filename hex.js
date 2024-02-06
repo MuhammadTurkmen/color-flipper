@@ -8,4 +8,5 @@ btn.addEventListener('click', function() {
     for(let i = 0; i < 6; i++) {
         hexColor += hex[0]
     }
+    color.textContent = hexColor
 })

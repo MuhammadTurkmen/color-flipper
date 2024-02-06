@@ -5,5 +5,5 @@ const color = document.querySelector('.color')
 
 btn.addEventListener('click', function() {
     let hex = '#'
-    for(let i = 0; i < 6)
+    for(let i = 0; i < 6; i++)
 })

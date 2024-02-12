@@ -222,7 +222,7 @@ main {
   font-weight: 700;   
   transition: var(--transition);    
   border: 2px solid var(--clr-black);     
-  cursor: pointer;   
+  cursor: pointer;    
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);   
   border-radius: var(--radius);   
   font-size: 1rem;    

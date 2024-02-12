@@ -216,10 +216,10 @@ main {
   font-family: var(--ff-primary); 
   text-transform: uppercase;
   background: transparent;
-  color: var(--clr-black);
+  color: var(--clr-black); 
   letter-spacing: var(--spacing);
   display: inline-block;   
-  font-weight: 700;  
+  font-weight: 700;   
   transition: var(--transition);    
   border: 2px solid var(--clr-black);    
   cursor: pointer;  

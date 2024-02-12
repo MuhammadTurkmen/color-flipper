@@ -229,6 +229,6 @@ main {
   padding: 0.75rem 1.25rem;  
 }
 .btn-hero:hover { 
-  color: var(--clr-white);
+  color: var(--clr-white); 
   background: var(--clr-black);
 }

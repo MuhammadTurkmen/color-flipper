@@ -198,9 +198,9 @@ main {
   min-height: calc(100vh - 3rem);
   display: grid; 
   place-items: center;
-}
+} 
 .container {
-  text-align: center;
+  text-align: center; 
 }
 .container h2 { 
   background: var(--clr-black);
